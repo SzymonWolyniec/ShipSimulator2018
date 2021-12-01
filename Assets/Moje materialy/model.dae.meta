@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: cabde10d7e5894b4bb10f17553dee803
+timeCreated: 1496693817
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _30W___50W___100W_LED_Array_Model
+    100002: _30W___50W___100W_LED_Array_Model 1
+    100004: _30W___50W___100W_LED_Array_Model 2
+    100006: _8-inch_down_light
+    100008: __12-inch_down_light
+    100010: Base_Plate
+    100012: Base_Plate_1
+    100014: Base_Plate_1 1
+    100016: group_0
+    100018: group_0 1
+    100020: group_1
+    100022: ID116
+    100024: ID126
+    100026: ID136
+    100028: ID144
+    100030: ID159
+    100032: ID169
+    100034: ID179
+    100036: ID189
+    100038: ID212
+    100040: ID220
+    100042: ID228
+    100044: ID24
+    100046: ID24 1
+    100048: ID246
+    100050: ID254
+    100052: ID262
+    100054: ID270
+    100056: ID288
+    100058: ID296
+    100060: ID306
+    100062: ID316
+    100064: ID32
+    100066: ID32 1
+    100068: ID324
+    100070: ID334
+    100072: ID42
+    100074: ID42 1
+    100076: ID66
+    100078: ID66 1
+    100080: ID74
+    100082: ID74 1
+    100084: ID82
+    100086: ID82 1
+    100088: ID90
+    100090: ID90 1
+    100092: instance_0
+    100094: instance_1
+    100096: instance_2
+    100098: instance_2 1
+    100100: instance_3
+    100102: instance_3 1
+    100104: instance_4
+    100106: instance_5
+    100108: instance_6
+    100110: instance_7
+    100112: instance_8
+    100114: LED_Array
+    100116: LED_Array_1
+    100118: LED_Array_1 1
+    100120: //RootNode
+    100122: skp_camera_Last_Saved_SketchUp_View
+    400000: _30W___50W___100W_LED_Array_Model
+    400002: _30W___50W___100W_LED_Array_Model 1
+    400004: _30W___50W___100W_LED_Array_Model 2
+    400006: _8-inch_down_light
+    400008: __12-inch_down_light
+    400010: Base_Plate
+    400012: Base_Plate_1
+    400014: Base_Plate_1 1
+    400016: group_0
+    400018: group_0 1
+    400020: group_1
+    400022: ID116
+    400024: ID126
+    400026: ID136
+    400028: ID144
+    400030: ID159
+    400032: ID169
+    400034: ID179
+    400036: ID189
+    400038: ID212
+    400040: ID220
+    400042: ID228
+    400044: ID24
+    400046: ID24 1
+    400048: ID246
+    400050: ID254
+    400052: ID262
+    400054: ID270
+    400056: ID288
+    400058: ID296
+    400060: ID306
+    400062: ID316
+    400064: ID32
+    400066: ID32 1
+    400068: ID324
+    400070: ID334
+    400072: ID42
+    400074: ID42 1
+    400076: ID66
+    400078: ID66 1
+    400080: ID74
+    400082: ID74 1
+    400084: ID82
+    400086: ID82 1
+    400088: ID90
+    400090: ID90 1
+    400092: instance_0
+    400094: instance_1
+    400096: instance_2
+    400098: instance_2 1
+    400100: instance_3
+    400102: instance_3 1
+    400104: instance_4
+    400106: instance_5
+    400108: instance_6
+    400110: instance_7
+    400112: instance_8
+    400114: LED_Array
+    400116: LED_Array_1
+    400118: LED_Array_1 1
+    400120: //RootNode
+    400122: skp_camera_Last_Saved_SketchUp_View
+    2300000: _8-inch_down_light
+    2300002: __12-inch_down_light
+    2300004: Base_Plate
+    2300006: Base_Plate_1
+    2300008: Base_Plate_1 1
+    2300010: ID116
+    2300012: ID126
+    2300014: ID136
+    2300016: ID144
+    2300018: ID159
+    2300020: ID169
+    2300022: ID179
+    2300024: ID189
+    2300026: ID212
+    2300028: ID220
+    2300030: ID228
+    2300032: ID24
+    2300034: ID24 1
+    2300036: ID246
+    2300038: ID254
+    2300040: ID262
+    2300042: ID270
+    2300044: ID288
+    2300046: ID296
+    2300048: ID306
+    2300050: ID316
+    2300052: ID32
+    2300054: ID32 1
+    2300056: ID324
+    2300058: ID334
+    2300060: ID42
+    2300062: ID42 1
+    2300064: ID66
+    2300066: ID66 1
+    2300068: ID74
+    2300070: ID74 1
+    2300072: ID82
+    2300074: ID82 1
+    2300076: ID90
+    2300078: ID90 1
+    2300080: LED_Array
+    2300082: LED_Array_1
+    2300084: LED_Array_1 1
+    3300000: _8-inch_down_light
+    3300002: __12-inch_down_light
+    3300004: Base_Plate
+    3300006: Base_Plate_1
+    3300008: Base_Plate_1 1
+    3300010: ID116
+    3300012: ID126
+    3300014: ID136
+    3300016: ID144
+    3300018: ID159
+    3300020: ID169
+    3300022: ID179
+    3300024: ID189
+    3300026: ID212
+    3300028: ID220
+    3300030: ID228
+    3300032: ID24
+    3300034: ID24 1
+    3300036: ID246
+    3300038: ID254
+    3300040: ID262
+    3300042: ID270
+    3300044: ID288
+    3300046: ID296
+    3300048: ID306
+    3300050: ID316
+    3300052: ID32
+    3300054: ID32 1
+    3300056: ID324
+    3300058: ID334
+    3300060: ID42
+    3300062: ID42 1
+    3300064: ID66
+    3300066: ID66 1
+    3300068: ID74
+    3300070: ID74 1
+    3300072: ID82
+    3300074: ID82 1
+    3300076: ID90
+    3300078: ID90 1
+    3300080: LED_Array
+    3300082: LED_Array_1
+    3300084: LED_Array_1 1
+    4300000: __12-inch_down_light
+    4300002: ID116
+    4300004: ID126
+    4300006: ID136
+    4300008: ID144
+    4300010: ID159
+    4300012: ID169
+    4300014: ID179
+    4300016: ID189
+    4300018: LED_Array_1
+    4300020: ID24
+    4300022: ID32
+    4300024: ID42
+    4300026: Base_Plate_1
+    4300028: ID66
+    4300030: ID74
+    4300032: ID82
+    4300034: ID90
+    4300036: _8-inch_down_light
+    4300038: ID288
+    4300040: ID296
+    4300042: ID306
+    4300044: ID316
+    4300046: ID324
+    4300048: ID334
+    4300050: LED_Array
+    4300052: ID212
+    4300054: ID220
+    4300056: ID228
+    4300058: Base_Plate
+    4300060: ID246
+    4300062: ID254
+    4300064: ID262
+    4300066: ID270
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
